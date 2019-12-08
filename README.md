@@ -22,8 +22,11 @@
 
 ## 手机端界面
 
-<img src="img/phone2.jpg" alt="phone2" style="zoom:18%;" /><img src="img/phone1.jpg" alt="phone1" style="zoom:18%;" /><img src="img/phone4.jpg" alt="phone4" style="zoom:18%;" /><img src="img/phone3.jpg" alt="phone3" style="zoom: 18%;" />
+<img src="img/手机上测试效果.png" alt="手机上测试效果" style="zoom:100%;" />
 
 ## PC端界面
 
-<img src="img/1575780751682.png" alt="1575780751682" style="zoom:80%;" />
+<img src="img/前端界面之渲染部分.png" alt="前端界面之渲染部分" style="zoom:100%;" />
+
+<img src="img/前端界面之选择风格部分.png" alt="前端界面之选择风格部分" style="zoom:100%;" />
+
