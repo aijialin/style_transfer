@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+body {
+/*	background: url("../img/main.jpg") no-repeat fixed top;
+	background-size:100% 100%; */
+}
+.style_tr {
+	cursor: pointer;
+}
+#style_image_name {
+	font-weight: bold;
+}
