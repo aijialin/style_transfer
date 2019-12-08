@@ -16,14 +16,14 @@
 
 ## 网络结构图
 
-![gray网络图](C:\Users\aijialin\OneDrive\A研究生论文\毕业论文\论文配图\gray网络图.jpg)
+![gray网络图](img/gray网络图.jpg)
 
 
 
 ## 手机端界面
 
-<img src="C:\Users\aijialin\项目\style_transfer\img\phone2.jpg" alt="phone2" style="zoom:18%;" /><img src="C:\Users\aijialin\项目\style_transfer\img\phone1.jpg" alt="phone1" style="zoom:18%;" /><img src="C:\Users\aijialin\项目\style_transfer\img\phone4.jpg" alt="phone4" style="zoom:18%;" /><img src="C:\Users\aijialin\项目\style_transfer\img\phone3.jpg" alt="phone3" style="zoom: 18%;" />
+<img src="img/phone2.jpg" alt="phone2" style="zoom:18%;" /><img src="img/phone1.jpg" alt="phone1" style="zoom:18%;" /><img src="img/phone4.jpg" alt="phone4" style="zoom:18%;" /><img src="img/phone3.jpg" alt="phone3" style="zoom: 18%;" />
 
 ## PC端界面
 
-<img src="C:\Users\aijialin\项目\style_transfer\img\1575780751682.png" alt="1575780751682" style="zoom:80%;" />
+<img src="img/1575780751682.png" alt="1575780751682" style="zoom:80%;" />
